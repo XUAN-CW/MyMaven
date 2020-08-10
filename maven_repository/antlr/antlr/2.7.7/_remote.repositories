@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Aug 10 18:21:08 CST 2020
+antlr-2.7.7.jar>central=
+antlr-2.7.7.pom>alimaven=
+antlr-2.7.7.pom>central=

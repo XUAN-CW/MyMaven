@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Jul 19 14:51:16 CST 2020
+jackson-core-2.8.10.jar>central=
+jackson-core-2.8.10-javadoc.jar>alimaven=
+jackson-core-2.8.10-sources.jar>alimaven=
+jackson-core-2.8.10.pom>central=
+jackson-core-2.8.10.pom>alimaven=
