@@ -1,4 +1,6 @@
-#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Mon Jul 24 16:47:28 CST 2017
-jstl-1.2.jar>central=
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Sep 02 23:45:44 CST 2020
+jstl-1.2.jar>alimaven=
+jstl-1.2.pom>alimaven=
 jstl-1.2.pom>central=
+jstl-1.2.jar>central=

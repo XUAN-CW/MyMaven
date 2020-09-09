@@ -1,7 +1,8 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Sun Jul 19 14:50:33 CST 2020
+#Thu Aug 20 16:20:08 CST 2020
 snakeyaml-1.17.jar>central=
 snakeyaml-1.17.pom>alimaven=
+snakeyaml-1.17.jar>alimaven=
 snakeyaml-1.17-javadoc.jar>alimaven=
 snakeyaml-1.17-sources.jar>alimaven=
 snakeyaml-1.17.pom>central=
