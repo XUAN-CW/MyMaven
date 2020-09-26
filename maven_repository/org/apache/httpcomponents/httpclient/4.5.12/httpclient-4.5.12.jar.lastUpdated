@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Sep 24 21:17:38 CST 2020
+http\://maven.aliyun.com/nexus/content/groups/public/.error=Could not transfer artifact org.apache.httpcomponents\:httpclient\:jar\:4.5.12 from/to alimaven (http\://maven.aliyun.com/nexus/content/groups/public/)\: GET request of\: org/apache/httpcomponents/httpclient/4.5.12/httpclient-4.5.12.jar from alimaven failed
+@default-alimaven-http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1600953458930
