@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Mar 06 10:32:31 CST 2019
+aliyun-java-sdk-core-3.3.1.jar>central=
+aliyun-java-sdk-core-3.3.1.jar>nexus=
+aliyun-java-sdk-core-3.3.1.pom>nexus=
+aliyun-java-sdk-core-3.3.1.pom>central=
