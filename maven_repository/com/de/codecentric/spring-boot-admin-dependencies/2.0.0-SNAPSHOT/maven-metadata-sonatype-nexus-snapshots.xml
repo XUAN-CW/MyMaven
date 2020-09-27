@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>de.codecentric</groupId>
+  <artifactId>spring-boot-admin-dependencies</artifactId>
+  <version>2.0.0-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20180412.094215</timestamp>
+      <buildNumber>89</buildNumber>
+    </snapshot>
+    <lastUpdated>20180412204450</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>2.0.0-20180412.094215-89</value>
+        <updated>20180412094215</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
