@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.multienvironment</groupId>
+  <artifactId>multi_environment_demo</artifactId>
+  <versioning>
+    <release>0.0.3-SNAPSHTO</release>
+    <versions>
+      <version>0.0.3-SNAPSHTO</version>
+    </versions>
+    <lastUpdated>20180426102032</lastUpdated>
+  </versioning>
+</metadata>

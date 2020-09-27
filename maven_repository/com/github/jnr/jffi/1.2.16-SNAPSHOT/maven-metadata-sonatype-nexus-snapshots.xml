@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>com.github.jnr</groupId>
+  <artifactId>jffi</artifactId>
+  <version>1.2.16-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20170516.205041</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20170516205041</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>1.2.16-20170516.205041-1</value>
+        <updated>20170516205041</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>1.2.16-20170516.205041-1</value>
+        <updated>20170516205041</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <classifier>complete</classifier>
+        <extension>jar</extension>
+        <value>1.2.16-20170516.205041-1</value>
+        <updated>20170516205041</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <classifier>native</classifier>
+        <extension>jar</extension>
+        <value>1.2.16-20170516.205041-1</value>
+        <updated>20170516205041</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
