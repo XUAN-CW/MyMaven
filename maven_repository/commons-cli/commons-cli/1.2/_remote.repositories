@@ -1,6 +1,7 @@
 #NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Mon Aug 10 16:59:51 CST 2020
+#Thu Oct 01 00:01:11 CST 2020
 commons-cli-1.2.pom>alimaven=
 commons-cli-1.2-sources.jar>central=
+commons-cli-1.2.jar>alimaven=
 commons-cli-1.2.jar>central=
 commons-cli-1.2.pom>central=

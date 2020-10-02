@@ -1,4 +1,6 @@
-#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Sat Mar 10 14:45:55 CST 2018
-druid-1.1.6.jar>central=
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Sep 30 23:43:16 CST 2020
+druid-1.1.6.pom>alimaven=
 druid-1.1.6.pom>central=
+druid-1.1.6.jar>alimaven=
+druid-1.1.6.jar>central=
